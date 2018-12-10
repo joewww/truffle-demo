@@ -1,0 +1,16 @@
+{
+  "package_name": "HelloWorld",
+  "version": "0.0.1",
+  "description": "Truffle Demo",
+  "authors": [
+    "joe"
+  ],
+  "keywords": [
+    "ethereum",
+    "demo"
+  ],
+  "dependencies": {
+    "zeppelin": "^1.3.0"
+  },
+  "license": "MIT"
+}
